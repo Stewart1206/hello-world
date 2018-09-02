@@ -1,0 +1,21 @@
+body {
+  color: #210B2C;
+  background-color: #B7C3F3;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#container {
+  margin: auto;
+  padding: 0 2%;
+}
+
+#sourceCode {
+  margin-top: 2%;
+  padding: 0 2%;
+  border: dotted #BC96E6 5px;
+}
+
+pre {
+  background-color: #4F6272;
+  color: #fff;
+}
